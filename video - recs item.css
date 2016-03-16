@@ -1,0 +1,26 @@
+.rcom-item {
+  display: inline-block;
+  width: 100%;
+}
+.rcom-item-wrapper {
+  display: block;
+}
+.rcom-image {
+  max-width: 100%;
+}
+.rcom-name {
+  color: rgb(102, 102, 102);
+  font-family: Verdana, Calibri, Trebuchet, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 3px 0;
+  overflow:hidden;
+  width:100%;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+.rcom-price {
+  color: rgb(0, 0, 0);
+  font-family: Verdana, Calibri, Trebuchet, Arial, sans-serif;
+  font-size: 11px;
+}

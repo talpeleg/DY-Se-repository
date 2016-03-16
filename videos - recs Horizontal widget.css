@@ -1,0 +1,18 @@
+.rcom-widget {
+    margin: 20px 55px;
+}
+.strategy-title {
+  font-size: 20px;
+  text-align: center;
+  margin: 10px 0;  
+}
+.rcom-item {
+  margin-right: 15px;
+}
+.rcom-item:last-of-type {
+  margin-right: 0px;
+}
+.rcom-items-container {
+  display: flex;
+  justify-content: center;
+}
